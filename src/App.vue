@@ -1,4 +1,5 @@
 <script>
+import { defineProps } from 'vue';
 import LaMiaPrimaAppConVite from './components/laMiaPrimaAppConVite.vue';
 
 export default {
