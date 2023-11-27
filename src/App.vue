@@ -1,6 +1,6 @@
 <script>
-
 import LaMiaPrimaAppConVite from './components/laMiaPrimaAppConVite.vue';
+
 export default {
   components: {
     LaMiaPrimaAppConVite
@@ -11,3 +11,4 @@ export default {
 <template>  
   <LaMiaPrimaAppConVite/>
 </template>
+<style scoped></style>

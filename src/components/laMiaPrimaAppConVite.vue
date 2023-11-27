@@ -9,6 +9,7 @@ const count = ref(0)
 </script>
 
 <template>
-  <h1>La mia prima app con Vite</h1>
+  <h1>la mia prima app con Vue</h1>
 </template>
 
+<style scoped></style>
